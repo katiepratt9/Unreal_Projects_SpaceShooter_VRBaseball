@@ -35,6 +35,7 @@ Use dual pistols or your throwable hammer to fight back.
 # Notes
 - Requires a VR headset and controllers.
 - A gameplay video(low quality to fit on github) is located in `unreal projects/src/`.
+  or watch on youtube: https://www.youtube.com/watch?v=ss342nZ8SaM
 
 # VRBaseball
 Simple Baseball VR game where player can pick up a bat(lying to the right of them on a log) and hit endless flying and 
@@ -57,3 +58,4 @@ spinning baseball projectiles for points, when the player misses a baseball the 
 # Notes 
 - you will need a VR Headset and controllers to play
 - a video of the gameplay for VRBaseball is located in the "unreal projects/src" folder
+  or watch on youtube: https://www.youtube.com/watch?v=Fr8q7LyTW5A 
